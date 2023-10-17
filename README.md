@@ -130,6 +130,8 @@ the default password is also `guest`.
 You can access the RabbitMQ management interface in your web browser by visiting `http://your-server-ip:15672/`. Use the
 default credentials (`guest`/`guest`) to log in.
 
+Additionally, if you have any other OS then you can follow the [Official Documentation](https://www.rabbitmq.com/install-debian.html)
+
 </details>
 
 <details>
